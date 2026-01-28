@@ -50,3 +50,18 @@ The goal of the project is to build a classification model that can accurately c
    git clone https://github.com/AstutiJ/Wine-Quality-Classification-ML.git
 
 
+## Key Learnings
+
+Practical implementation of machine learning classification
+
+Importance of data preprocessing and handling class imbalance
+
+Hands-on experience with Scikit-Learn pipelines
+
+Model evaluation techniques
+
+##  Acknowledgment
+
+This project was developed under the Edunet Foundation initiative as part of a machine learning learning program.
+
+
